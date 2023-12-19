@@ -1,1 +1,10 @@
-
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  ul {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
